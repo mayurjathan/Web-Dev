@@ -8,9 +8,6 @@ Welcome to my Web Development Learning Repository! This repository contains all 
 - [Technologies](#technologies)
 - [Projects](#projects)
 - [Resources](#resources)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -62,10 +59,3 @@ Here are some of the resources I'm using to learn web development:
 - [The Odin Projects](https://www.theodinproject.com/)
 - [YouTube Channels](https://www.youtube.com/) (e.g., Traversy Media, The Net Ninja)
 
-## Getting Started
-
-To get started with any of the projects in this repository, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/web-dev-learning.git
