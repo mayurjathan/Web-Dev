@@ -59,3 +59,4 @@ Here are some of the resources I'm using to learn web development:
 - [The Odin Projects](https://www.theodinproject.com/)
 - [YouTube Channels](https://www.youtube.com/) (e.g., Traversy Media, The Net Ninja)
 
+
