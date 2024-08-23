@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>220953018</title>
+    <style>
+        a[title]{
+            background-color: red;
+        }
+        a[title="posts from this country"]{
+            background-color: green;
+        }
+        [title~="Countries"]{
+            color: yellow;
+        }
+        b[href^="mailto"]{
+            background-color: yellow;
+        }
+        
+        </style>
+</head>
+<body>
+   <a href="https//www.chatgpt.com" title="idw">chatgpt.com</a><br>
+    <a href="https//www.chatgpt.com" title="posts from this country">chatgpt.com</a><br> <!-- the word should be absolutely equal to the title-->
+    <a href="https//www.chatgpt.com" title="Countries">chatgpt.com</a><br> <!-- checks for the word Countries only -->
+    <b href="mailtome">new text</b>
+</body>
+</html>
